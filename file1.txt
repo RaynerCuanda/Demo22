@@ -1,1 +1,3 @@
-Mengubah isi file1 di remote
+Mengubah isi file1 di local
+
+dan menambahkan baris baru
